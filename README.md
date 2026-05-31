@@ -1,5 +1,7 @@
 ## Samantha White
 
+[Portfolio](https://ssrpw2.github.io)
+
 Software/systems engineer with a math degree.
 
 ### Projects
